@@ -8,6 +8,11 @@ function App() {
         <p>
           CI/CD Demo using Travis.yml and Surge.sh &lt;3
         </p>        
+        <ul>
+          <li>Travis.yml is mediator in Guthub and Surge.sg</li>
+          <li>Surge.sh is PaaS - Platform as a Service to deploy Static Sites quickly.</li>
+        </ul>
+        <p></p>
       </header>
     </div>
   );

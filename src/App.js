@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          CI/CD Demo using Travis.yml and Surge.sh
+          CI/CD Demo using Travis.yml and Surge.sh <3
         </p>        
       </header>
     </div>
